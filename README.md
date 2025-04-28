@@ -68,7 +68,7 @@ To write a C program to generate the Fibonacci series for the value 6.
 7.	Stop the program.
 
 ## PROGRAM
-        ```
+```
 
 #include <stdio.h>
 
@@ -87,8 +87,7 @@ int main() {
     printf("\n");
     return 0;
 }
-
-        ```
+```
 
 ## OUTPUT
 
@@ -232,7 +231,7 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  Print the updated array after replacements.
 
 ## Program:
-    ```
+```
 #include <stdio.h>
 
 int main() {
@@ -262,7 +261,7 @@ int main() {
     return 0;
 }
 
-    ```
+```
 
 ## Output:
  ![image](https://github.com/user-attachments/assets/d754c193-0a02-45c6-980a-0b235d531a88)
